@@ -1,4 +1,9 @@
-<h1 align="center">
+<h1
+<p align="center">
+  <a href="https://trendoday.com/github/repo/thedotmack/claude-mem" target="_blank">
+    <img src="https://trendoday.com/badge/github/repo/thedotmack/claude-mem.svg" alt="thedotmack/claude-mem - Trending on Trendoday" height="54" />
+  </a>
+</p> align="center">
   <br>
   <a href="https://github.com/thedotmack/claude-mem">
     <picture>
